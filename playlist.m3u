@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 lcn="500" tvg-name="Fox Sports News" tvg-id="500" tvg-logo="https://drive.usercontent.google.com/download?id=1oFkpmukcW52mPlpPQqa4oN0D0a0_fJHE",Fox Sports News
+#EXTINF:0 lcn="500" tvg-name="Fox Sports News" tvg-id="Fox Sports News" tvg-logo="https://drive.usercontent.google.com/download?id=1oFkpmukcW52mPlpPQqa4oN0D0a0_fJHE",Fox Sports News
 https://kayosports.com.au/browse
 
 #EXTINF:0 lcn="501" tvg-name="Fox Cricket" tvg-id="Fox Cricket" tvg-logo="https://drive.usercontent.google.com/download?id=1RLROr_I4fr6aNNVCGDbjWNccxT71ANg9",Fox Cricket
